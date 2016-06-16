@@ -1,8 +1,8 @@
 (function(app) {
-    app.AppComponent =
+    app.Player =
         ng.core.Component({
-            selector: 'my-app',
-            templateUrl: 'app/templates/header.html'
+            selector: 'app-player',
+            template: '<h2>Player:</h2><h3>Lina</h3>'
         })
             .Class({
                 constructor: function() {}

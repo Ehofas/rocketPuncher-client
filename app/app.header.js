@@ -1,8 +1,8 @@
 (function(app) {
-    app.AppComponent =
+    app.AppHeader =
         ng.core.Component({
-            selector: 'my-app',
-            templateUrl: 'app/templates/header.html'
+            selector: 'app-header',
+            templateUrl: '/app/templates/header.html'
         })
             .Class({
                 constructor: function() {}

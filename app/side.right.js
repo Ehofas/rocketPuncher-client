@@ -1,8 +1,8 @@
 (function(app) {
-    app.AppComponent =
+    app.AppSideRight =
         ng.core.Component({
-            selector: 'my-app',
-            templateUrl: 'app/templates/header.html'
+            selector: 'app-side-right',
+            templateUrl: '/app/templates/side.html'
         })
             .Class({
                 constructor: function() {}
