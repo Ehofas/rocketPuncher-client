@@ -1,0 +1,21 @@
+{
+  "game": {
+    "id": "00001",
+    "score": {
+      "team1": {
+        "players:": [
+          "modestas.peciokas",
+          "lina.povilaviciute"
+        ],
+        "score": "5"
+      },
+      "team2": {
+        "players:": [
+          "martynas.maciuliavicius",
+          "tomas.kasnauskas"
+        ],
+        "score": "7"
+      }
+    }
+  }
+}
